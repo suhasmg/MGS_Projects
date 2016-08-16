@@ -1,0 +1,66 @@
+https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Eclipse_Tools_for_Bluemix
+
+http://mgsfirstblueapp1.eu-gb.mybluemix.net/
+
+
+===========================================================================
+ Welcome to your new project: suhasmg | text-to-speech-nodejs-suhasmg-845
+IBM DevOps Services 
+to:
+Suhas Gundanna
+08/04/2016 08:46 AM
+Hide Details 
+From: IBM DevOps Services <hub@jazz.net>
+To: Suhas Gundanna/India/IBM@IBMIN
+Please respond to noreply@jazz.net
+Security:
+To ensure privacy, images from remote sites were prevented from downloading. Show Images
+ 
+
+  IBM Bluemix DevOps Services 
+ 
+Congratulations! Your new project is here:
+
+Project URL: https://hub.jazz.net/project/suhasmg/text-to-speech-nodejs-suhasmg-845
+
+Git Repository URL: https://hub.jazz.net/git/suhasmg/text-to-speech-nodejs-suhasmg-845
+
+Do you intend to code with Rational Team Concert client for Eclipse? If so, connect to your IBM Bluemix DevOps Services project and clone your Git repository:
+
+
+
+In your Rational Team Concert client for Eclipse, click File > Accept Team Invitation 
+Paste the text below into the Accept Invitation text field:
+
+teamRepository=https://hub.jazz.net/ccm37
+userId=suhasmg
+userName=Suhas Gundanna
+projectAreaName=suhasmg | text-to-speech-nodejs-suhasmg-845 
+Clone your Git repository using EGit:
+
+Open the "Git Repository Exploring" perspective.
+Click the icon "Clone a Git Repository and add the clone to this view".
+Complete the Clone Git Repository wizard using the information below.
+
+URI=https://hub.jazz.net/git/suhasmg/text-to-speech-nodejs-suhasmg-845
+User=suhasmg
+Password=<your IBM password> 
+
+
+Do you intend to code outside the IBM Bluemix DevOps Services Web IDE with git or your favorite Git client?
+
+
+
+To clone the Git repository using git:
+
+Run the command "git clone https://hub.jazz.net/git/suhasmg/text-to-speech-nodejs-suhasmg-845".
+
+Note: The IBM Bluemix DevOps Services Git repository is only available via the HTTPS protocol. 
+
+For more help choosing and getting started with your preferred client, see Working locally with IBM Bluemix DevOps Services projects.
+
+Have questions? Check out IBM Bluemix DevOps Services support.
+ 
+IBM  Visit IBM Bluemix DevOps Services     
+ 
+ 
